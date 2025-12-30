@@ -22,7 +22,6 @@ What I Learned
 # Screenshots :
 
 
-<img width="1916" height="1015" alt="Screenshot 2025-12-30 162241" src="https://github.com/user-attachments/assets/92551412-9ee6-400c-bcf5-6ee029d8902c" />
-
+<img width="1916" height="976" alt="Screenshot 2025-12-30 162241" src="https://github.com/user-attachments/assets/5066c662-ff22-4f10-ae14-85692fd8833e" />
 <img width="1905" height="867" alt="Screenshot 2025-12-30 162328" src="https://github.com/user-attachments/assets/d83f3d33-e237-47d4-abc6-a2bc33c84156" />
 
