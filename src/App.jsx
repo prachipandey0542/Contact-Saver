@@ -41,6 +41,7 @@ const App = () => {
           type="text"
           placeholder="Enter Image URL"
           value={img}
+          required
           onChange={function (e) {
             setImg(e.target.value);
           }}
@@ -50,6 +51,7 @@ const App = () => {
           type="text"
           placeholder="Enter Name"
           value={name}
+          required
           onChange={function (e) {
             setName(e.target.value);
           }}
@@ -59,6 +61,9 @@ const App = () => {
           type="tel"
           placeholder="Contact Number"
           value={contact}
+          required
+          minLength={10}
+          maxLength={10}
           onChange={function (e) {
             setContact(e.target.value);
           }}
